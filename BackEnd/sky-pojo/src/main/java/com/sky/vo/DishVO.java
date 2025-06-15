@@ -28,7 +28,7 @@ public class DishVO implements Serializable {
     private String image;
     //描述信息
     private String description;
-    //0 停售 1 起售
+    //0 停售 1 启售
     private Integer status;
     //更新时间
     private LocalDateTime updateTime;
